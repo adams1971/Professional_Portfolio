@@ -1,0 +1,28 @@
+
+body {
+    background:rgba(3, 48, 4, 0.4)
+}
+
+/*made footer sticky*/
+footer {
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+    word-spacing: 60px;
+    
+}
+/*added style to card*/
+#card {
+    max-width: 1080px
+}
+
+/* styled padding adn border*/
+.img-thumbnail {
+    padding: 0rem;
+    border: 0px rgba(3, 48, 4, 0.4);
+}
+
+/*styled anchor*/
+a {
+    color: rgba(52, 85, 114, 0.763)
+}
