@@ -4,12 +4,20 @@ body {
 }
 
 /*made footer sticky*/
-footer {
+/*footer {
     position: sticky;
     bottom: 0;
     text-align: center;
     word-spacing: 60px;
     
+}*/ 
+
+/*updated footer*/
+footer {
+    background-color: rgba(3, 48, 4, 0.4);
+    color: black;
+    font-size: small;
+    border-top: solid teal 6px
 }
 /*added style to card*/
 #card {
