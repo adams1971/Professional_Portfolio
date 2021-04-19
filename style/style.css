@@ -1,6 +1,8 @@
 
 body {
-    background:rgba(3, 48, 4, 0.4);
+    background-image: url(/Users/chefa/Documents/FSF_Homework/08-Professional_Portfolio/Professional_Portfolio/assets/trees.jpeg);
+    background-size: cover;
+    
 }
 
 /*added style to card*/
