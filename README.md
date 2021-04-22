@@ -49,7 +49,7 @@ https://www.dropbox.com/s/0o75rd1pg25t37t/Resume%20Adam%20Stevenson%20Web%20Dev.
 https://www.linkedin.com/in/adam-stevenson-sea/ 
 
 ## Questions and Comments
-#### email me at:
+### email me at:
 <adamscdcm@gmail.com> 
 
 ## Deployed Portfolio Site
